@@ -1,0 +1,8 @@
+{
+  "name": "madcoders/editor-sdk",
+  "autoload": {
+    "psr-4" : {
+      "MadcodersEditorSDK\\" : "src"
+    }
+  }
+}
